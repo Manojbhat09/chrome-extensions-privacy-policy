@@ -29,22 +29,20 @@ The data collected is used solely for the purpose of enhancing your gaming exper
 
 - **Sound preference**: To remember whether you prefer the game sounds to be muted or unmuted.
 - **High scores**: To track and display your highest scores achieved in the game.
-- **Game settings**: To apply your preferred theme color, tile size, and game speed each time you play the game.
+- **Game settings**: To apply your preferred theme color, tile size, and game speed each time you play the game.[Coming soon]
 
 ## Data Security
-We take the security of your data seriously. Since all data is stored locally on your device, it is protected by the security measures of your browser and device. We do not transmit any data to external servers, which minimizes the risk of data breaches.
-
-## Links to Other Websites
-My Google Chrome Extensions may contain links to other websites not operated by me. This Privacy Policy does not cover how that website processes personal information. I encourage you to review the Privacy Policy of every website that you visit.
+We take the security of your data seriously. Since NO data is stored locally on your device, we do not transmit any data to external servers.
 
 ## Changes to this Privacy Policy
-I reserve the right to amend this Privacy Policy at any time. Any changes will be effective immediately upon posting the revised Privacy Policy, and the "Effective Date" above will be updated. You are advised to review this Privacy Policy periodically for any changes.
+There will be no further change to the Privacy Policy
 
 ## User Rights
 You have the right to know what data is collected, how it is used, and how it is shared. You also have the right to request access to, correct, or delete any data that might be stored locally on your device.
+Since no data is stored, this is just for obligatory purposes. 
 
 ## Contact
-If you have questions or concerns about this Privacy Policy, you can contact me by email at [Your Email].
+If you have questions or concerns about this Privacy Policy, you can contact me by email.
 
 ## Removing the Extension
 If you wish to stop using the Chrome extension and remove it from your browser, you can do so by following these steps:
